@@ -1,5 +1,4 @@
 # Speer-Backend-api
-Backend api for Speer's Miro assesment
 
 #Framework used: express
 Express used due to following reasons:
