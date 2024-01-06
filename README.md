@@ -8,7 +8,7 @@ Express used due to following reasons:
 
 #Database used: MongoDb
 - For scalable api build
-- Faster insertion and retreival 
+- Faster insertion and retrieval 
 - MongoDB Atlas provides good indexing features for search
 
 # How Code Works
