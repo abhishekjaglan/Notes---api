@@ -1,4 +1,4 @@
-# Speer-Backend-api
+# Notes-api
 
 #Framework used: express
 Express used due to following reasons:
